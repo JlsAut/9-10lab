@@ -24,6 +24,3 @@ class SignInPage extends React.Component {
     );
   }
 }
-
-export default SignInPage;
-© 2021 GitHub, Inc.
